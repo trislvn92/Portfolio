@@ -1,0 +1,24 @@
+<!DOCTYPE html> <!-- Utilise ton outil interne pour que le code HTML5 puisse apparaître -->
+<html> <!- -C'est un sous-ensemble du XML -->
+  <head> <!-- Le navigateur le lira, nous le verrons pas -->
+    <meta charset="UTF-8">
+    <title>Portfolio TRISTAN LEVILLAIN / Expert Web Marketing</title>
+  </head>
+  <body> <!-- Ca s'affiche ici -->
+  <header>
+  <h1> Tristan Levillain RAJOUTE MOI</h1>
+  </header>
+  
+  <section>
+  <div align="center">
+    <h2> CECI EST UN h2</h2>
+	    <h3> CECI EST UN h3</h3>
+  <p> Coucou les z'amis :D </p>
+    <p> Coucou les z'amis :D </p>
+	<br> <!-- Retour à la ligne -->
+	</section>
+	<img src="dossier/miaou.png" width="500px">
+	<a href="https://youtube.com">Ne cliques JAMAIS sur ce lien</a>
+	 </div>
+  </body>
+</html>
