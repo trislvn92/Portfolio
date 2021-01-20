@@ -4,6 +4,12 @@ html, body
  padding: 0;
 }
 
+header
+{
+grid-column: 1 / 5:
+grid-row: 1/ 2;
+}
+
 body
 {
  background-color: white; 
@@ -68,4 +74,10 @@ a:active, a:focus
 img
 {
 vertical-align:middle;
+}
+
+#coordonnees
+{
+grid-column: 3/ 5;
+grid-row: 3/ 4;
 }
