@@ -4,7 +4,7 @@ html, body
  padding: 0;
 }
 
-/* En taille police par défaut du navigateur relative probleme de pixel (que pour les marges à gauche à droite), @ médias redéfinir propriété css en fonction taille fenetre */
+/* En taille police par défaut du navigateur relative probleme de pixel (que pour les marges à gauche à droite)*/
 /* margin: 1em; */
 /* Recommandation : éviter les <br> ! */
 /* Unités à privilégier : em, %, vw, vh et fr */
