@@ -53,12 +53,7 @@ body
 
 #menu li a
 {
-	color : #FFFFFF; /* Couleur menu horizontal non sélectionné */
-}
-
-#menu li i
-{
-	padding-left : 20px;
+	color : #FFFFFF;
 }
 
 #colonnegauche
